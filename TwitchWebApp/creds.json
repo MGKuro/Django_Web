@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "1111",
+    "private_key_id": "2222",
+    "private_key": "3333",
+    "client_email": "4444",
+    "client_id": "555",
+    "auth_uri": "6666",
+    "token_uri": "7777",
+    "auth_provider_x509_cert_url": "88888",
+    "client_x509_cert_url": "99999",
+    "universe_domain": "googleapis.com"
+  }
+  
