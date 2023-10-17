@@ -19,4 +19,4 @@ Once you made a get method on that link, the app would use Twitch endpoints to g
 
 I created a cron-job in this free web: [cron-job.org](https://cron-job.org/en/) where I made a GET method on the link above every five minutes. Now, data is collected automatically.
 
-Data is private, I won't share my brother's info, but I can share to you the sheet of the top played games: [Get_Top_Games](https://docs.google.com/spreadsheets/d/1c8D_tLtjIdq3-4jjsQ__Dg_6LDAzko7hCJUZENALxaU/edit#gid=0)
+Data is private, I won't share my brother's info, but I can share the sheet of the top played games: [Get_Top_Games](https://docs.google.com/spreadsheets/d/1c8D_tLtjIdq3-4jjsQ__Dg_6LDAzko7hCJUZENALxaU/edit#gid=0)
