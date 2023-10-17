@@ -6,7 +6,7 @@ Hi! I'm Mauro Gación and this is my Django App!
 The porpuse of this project is to gather data from Twitch API in order to help my streamer brother, TokaSenseiGG, to make data-driven decisions.
 
 ### Twitch Endpoints
-The first step was learning about Twitch API reading its documentation. There, I learned how to create an App in Twitch console and use its endpoints to get data like chatters in the broadcaster's session, subscriptions in the channel, the followers of the channel, the top games being played at the time, and so on.
+The first step was learning about Twitch API by reading its documentation. There, I learned how to create an App in Twitch console and use its endpoints to get data like chatters in the broadcaster's session, subscriptions in the channel, the followers of the channel, the top games being played at the time, and so on.
 
 ### Google sheets
 The original idea for this project was to use a cloud service like AWS and GCP to store the data in a data lake. But, in order to keep it free and simple, I decided to use google sheets.
